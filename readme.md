@@ -1,3 +1,3 @@
-## My Blog Demo
+## PhpStorm Project Template Demo
 
-Demo for http://oomusou.io/
+Demo for http://oomusou.io/phpstorm/phpstorm-project-template/
